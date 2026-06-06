@@ -59,9 +59,11 @@ Format:
 }
 ```
 
-line "site": site IP. By standards CnUlP, using 10.0.0.x 
-line "name": site name. 
-line "owner_uuid": who owner of this site? (From my_personality.json.)
+**line** "site": site IP. By standards CnUlP, using 10.0.0.x 
+
+**line** "name": site name. 
+
+**line** "owner_uuid": who owner of this site? (From my_personality.json.)
 
 ## This end of first configuration. Start, and try type in terminal:
 ping 10.0.0.x 
