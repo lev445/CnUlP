@@ -51,7 +51,7 @@ def main
       end
     end
   rescue Interrupt
-    puts "\n[0x00] ^C detected. Exiting gracefully..."
+    puts "\n[0x00] ^C detected. Exit..."
     exit
   end
 end
