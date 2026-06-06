@@ -1,4 +1,4 @@
-1105;9u## In this article, you'll learn about setup, how to configure the configuration for the first time, and all the configuration parameters. Let's get started.
+## In this article, you'll learn about setup, how to configure the configuration for the first time, and all the configuration parameters. Let's get started.
 
 ## First setup.
 You can **find** information about the initial installation in the `README.md` file. 
@@ -23,7 +23,9 @@ File in: your_folder/whitelist.json (root folder)
 
 ```
 parameter: "ip": IP of your peer, who want to connect with you. 
+
 parameter: "uuid": your uuid from file my_personality.json.
+
 parameter: "name": your name.
 
 - `sites.json`
@@ -44,7 +46,9 @@ File in: your_folder/sites.json (root folder)
 
 ```
 parameter: "site": site ip.
+
 parameter: "name": your site name.
+
 parameter: "owner_uuid": who owner of site? (in uuid, from my_personality.json.)
 
 - `my_personality.json`
@@ -61,5 +65,6 @@ File in: your_folder/my_personality.json (root folder)
 ```
 
 parameter: "my_uuid": DO NOT change this parameter. This parameter generated with first start program. 
+
 parameter: "virtual_ip": your ip in network CnUlP
 
