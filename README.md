@@ -34,7 +34,9 @@ Warning: another user MUST to be download this app.
 ```
 
 **line** "ip": local IP.
+
 **line** "uuid": UUID from my_personality.json
+
 **line** "name": name.
 
 After: start file: ruby main.rb
