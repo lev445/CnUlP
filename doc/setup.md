@@ -68,3 +68,4 @@ parameter: "my_uuid": DO NOT change this parameter. This parameter generated wit
 
 parameter: "virtual_ip": your ip in network CnUlP
 
+ATTENTION! When typing sudo nano my_personality.json, be sure to include SUDO. Without SUDO, you'll open the file with RO privileges. (This is necessary if you want to change the virtual_ip parameter.)
