@@ -2,10 +2,6 @@
 # Writed on ruby
 # Main-point (client-side)
 
-# Why not match-case?
-# I'm not yanderedev, but this script, because. This not game =33
-# Yanderedev, it's just joke, dont ban in your discord, lol
-
 # require 'rbconfig'
 require 'readline'
 
